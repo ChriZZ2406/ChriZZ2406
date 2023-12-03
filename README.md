@@ -1,4 +1,4 @@
-# WELCOME to my GitHub-Profile!
+# WELCOME to my GitHub Profile!
 
 <img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png" width="700" height="200">
 
