@@ -15,37 +15,37 @@
 
 👨‍💻 **Technologiestack**:
 Hier sind einige Technologien und Tools, mit denen ich arbeite:
-- Linux (Fortgeschritten)
+- Linux
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
   
-- Visual Studio Code (Fortgeschritten)
+- Visual Studio Code
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
 
-- Office 365 (Fortgeschritten)
+- Office 365
   <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" height="40">
 
-- AWS (Fortgeschritten)
+- AWS
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
   
-- JavaScript/JSX (Fortgeschritten)
+- JavaScript/JSX
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
   
-- GitHub (Fortgeschritten)
+- GitHub
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40">
   
-- Scrum (Fortgeschritten)
+- Scrum
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40">
   
-- Python (Grundkenntnisse)
+- Python
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
   
-- Terraform (Grundkenntnisse)
+- Terraform
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40">
   
-- Ansible (Grundkenntnisse)
+- Ansible
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40">
   
-- CI/CD (Grundkenntnisse)
+- CI/CD
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40">
 
 
