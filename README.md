@@ -1,3 +1,5 @@
+![Tech Image](https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png)
+
 ### Hallo, ich bin Christian Altenhofer 👋
 
 🌟 **Über mich**:
