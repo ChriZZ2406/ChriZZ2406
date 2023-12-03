@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png" width="700" height="200">
 
-### Hallo, ich bin Christian Altenhofer 👋
+### Hallo, ich bin Christian👋
 
 🌟 **Über mich**:
 - Ich bin ein leidenschaftlicher IT- und Prozessoptimierer mit einer starken Affinität für innovative Technologien und effiziente Arbeitsabläufe.
