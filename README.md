@@ -1,4 +1,4 @@
-![Tech Image](https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png)
+<img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png" width="700">
 
 ### Hallo, ich bin Christian Altenhofer 👋
 
