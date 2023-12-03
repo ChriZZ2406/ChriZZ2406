@@ -1,4 +1,4 @@
-<img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png" width="700">
+<img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/Tech%20Image.png" width="1024">
 
 ### Hallo, ich bin Christian Altenhofer 👋
 
