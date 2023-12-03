@@ -34,7 +34,7 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40">
   
 - Scrum
-  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40">
+   <br><img src="https://github.com/ChriZZ2406/ChriZZ2406/blob/main/SCRUM.png" width="40" height="40">
   
 - Python
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
