@@ -16,7 +16,7 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
   
 - Office 365 (Fortgeschritten)
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40">
-  
+
 - AWS (Fortgeschritten)
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
   
