@@ -12,25 +12,35 @@
 👨‍💻 **Technologiestack**:
 Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Linux (Fortgeschritten)
-  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
+  
 - Office 365 (Fortgeschritten)
-  ![Microsoft](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40">
+  
 - AWS (Fortgeschritten)
-  ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
+  
 - JavaScript/JSX (Fortgeschritten)
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
+  
 - GitHub (Fortgeschritten)
-  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40">
+  
 - Scrum (Fortgeschritten)
-  ![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40">
+  
 - Python (Grundkenntnisse)
-  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
+  
 - Terraform (Grundkenntnisse)
-  ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40">
+  
 - Ansible (Grundkenntnisse)
-  ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40">
+  
 - CI/CD (Grundkenntnisse)
-  ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40">
+
 
 🌱 **Lernen und Wachsen**:
 - Aktuelle Schwerpunkte: DevOps, CI/CD, Cloud-Technologien und erweiterte JavaScript-Kenntnisse.
@@ -45,7 +55,7 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Interessiert an Wirtschaft, Politik, Reisen und Lesen.
 
 ⚡ **Fun Fact**:
-- [Hier könnten Sie einen interessanten oder lustigen Fakt über sich einfügen.]
+- Neben meiner Leidenschaft für IT und Technologie bin ich ein begeisterter Freeletics-Anhänger. Ich finde, dass die Disziplin und Ausdauer, die ich beim Sport lerne, auch in meiner beruflichen Laufbahn von großem Nutzen sind!
 
 #### Meine berufliche Laufbahn
 - Meine berufliche Identität basiert auf einer Kombination aus technischem Know-how und einer ausgeprägten Fähigkeit zur Kundenbetreuung. Mein Weg führte mich von einer soliden Ausbildung im kaufmännischen Bereich über vielseitige Erfahrungen in der IT-Branche bis hin zu einer spezialisierten Weiterbildung im Bereich DevOps & Cloud Engineering. Diese vielfältige Erfahrung ermöglicht es mir, sowohl die technischen als auch die betriebswirtschaftlichen Aspekte eines Projekts zu verstehen und effektiv zu managen.
