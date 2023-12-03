@@ -12,16 +12,25 @@
 👨‍💻 **Technologiestack**:
 Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Linux (Fortgeschritten)
+  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 - Office 365 (Fortgeschritten)
+  ![Microsoft](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg)
 - AWS (Fortgeschritten)
+  ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 - JavaScript/JSX (Fortgeschritten)
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 - GitHub (Fortgeschritten)
+  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 - Scrum (Fortgeschritten)
+  ![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg)
 - Python (Grundkenntnisse)
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 - Terraform (Grundkenntnisse)
-- ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg)
-Ansible (Grundkenntnisse)
+  ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg)
+- Ansible (Grundkenntnisse)
+  ![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg)
 - CI/CD (Grundkenntnisse)
+  ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
 
 🌱 **Lernen und Wachsen**:
 - Aktuelle Schwerpunkte: DevOps, CI/CD, Cloud-Technologien und erweiterte JavaScript-Kenntnisse.
