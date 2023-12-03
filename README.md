@@ -14,8 +14,11 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Linux (Fortgeschritten)
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
   
+- Visual Studio Code (Fortgeschritten)
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
+
 - Office 365 (Fortgeschritten)
-   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
+  <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40" height="40">
 
 - AWS (Fortgeschritten)
   <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40">
