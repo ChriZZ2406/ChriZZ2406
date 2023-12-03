@@ -11,14 +11,19 @@
 
 👨‍💻 **Technologiestack**:
 Hier sind einige Technologien und Tools, mit denen ich arbeite:
-- Linux, Office 365, AWS, JavaScript/JSX, Java, GitHub
-- Scrum (Professional Scrum Master I & II)
-- Python
-- Terraform
-- Ansible
-- CI/CD
+- Linux (Fortgeschritten)
+- Office 365 (Fortgeschritten)
+- AWS (Fortgeschritten)
+- JavaScript/JSX (Fortgeschritten)
+- GitHub (Fortgeschritten)
+- Scrum (Fortgeschritten)
+- Python (Grundkenntnisse)
+- Terraform (Grundkenntnisse)
+- ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg)
+Ansible (Grundkenntnisse)
+- CI/CD (Grundkenntnisse)
 
-🌱 **Lernende und wachsende**:
+🌱 **Lernen und Wachsen**:
 - Aktuelle Schwerpunkte: DevOps, CI/CD, Cloud-Technologien und erweiterte JavaScript-Kenntnisse.
 - Stets offen für neue Herausforderungen und Technologien.
 
