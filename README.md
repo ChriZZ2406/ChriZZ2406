@@ -61,6 +61,9 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Ich genieße es, meine Zeit mit Familie und Freizeitaktivitäten wie Freeletics zu verbringen.
 - Interessiert an Wirtschaft, Politik, Reisen und Lesen.
 
+💬 **Projekt**:
+- https://soni-elektro.de (Von mir erstelltes Projekt für ein Unternehmen)
+
 ⚡ **Fun Fact**:
 - Neben meiner Leidenschaft für IT und Technologie bin ich ein begeisterter Freeletics-Anhänger. Ich finde, dass die Disziplin und Ausdauer, die ich beim Sport lerne, auch in meiner beruflichen Laufbahn von großem Nutzen sind!
 
@@ -71,4 +74,6 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - AWS Certified Cloud Practitioner
 - Professional Scrum Master I & II
 - LPI 010-160
+- diverse MongoDB
+- SQL Island
 
