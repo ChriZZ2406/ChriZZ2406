@@ -71,8 +71,10 @@ Hier sind einige Technologien und Tools, mit denen ich arbeite:
 - Meine berufliche Identität basiert auf einer Kombination aus technischem Know-how und einer ausgeprägten Fähigkeit zur Kundenbetreuung. Mein Weg führte mich von einer soliden Ausbildung im kaufmännischen Bereich über vielseitige Erfahrungen in der IT-Branche bis hin zu einer spezialisierten Weiterbildung im Bereich DevOps & Cloud Engineering. Diese vielfältige Erfahrung ermöglicht es mir, sowohl die technischen als auch die betriebswirtschaftlichen Aspekte eines Projekts zu verstehen und effektiv zu managen.
 
 #### Meine Zertifikate
+- Cloud Computing & DevOps Engineer
 - AWS Certified Cloud Practitioner
 - Professional Scrum Master I & II
+- Professional Scrum Product Owner I
 - LPI 010-160
 - diverse MongoDB
 - SQL Island
