@@ -5,6 +5,8 @@
 ### Hey, ich bin Christian👋
 
 🌟 **Über mich**:
+- Cloud & DevOps Engineer
+- Industrial Clerk, IHK 
 - Ich bin ein leidenschaftlicher IT- und Prozessoptimierer mit einer starken Affinität für innovative Technologien und effiziente Arbeitsabläufe.
 - Meine berufliche Identität kombiniert technisches Know-how mit ausgeprägten Fähigkeiten in der Kundenbetreuung und einem tiefen Verständnis für betriebswirtschaftliche Prozesse.
 - Stets bestrebt, neue Technologien zu erforschen und innovative Lösungen zu schaffen.
